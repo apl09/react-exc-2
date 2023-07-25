@@ -1,0 +1,5 @@
+.home {
+    display: flex;
+    color: green;
+    flex-direction: column;
+}
